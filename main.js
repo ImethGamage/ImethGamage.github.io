@@ -359,7 +359,7 @@ particlesJS("particles-js", {
   document.getElementById("downloadLink").addEventListener("click", function(event){
     event.preventDefault(); // Prevent the default action of the link
     
-    var filename = "Final_My_CV.pdf"; // Replace with your file name
+    var filename = "Imeth_Gamage_CV.pdf"; // Replace with your file name
     var link = document.createElement('a');
     link.setAttribute('href', filename);
     link.setAttribute('download', filename);
