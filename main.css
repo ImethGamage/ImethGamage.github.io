@@ -500,6 +500,22 @@
         animation: Java 5s;
     }
 
+  .skill-bar .bar .SQL{
+        width: 85%;
+        animation: Java 5s;
+    }
+
+    .skill-bar .bar .Java-Script{
+        width: 65%;
+        animation: Java 5s;
+    }
+
+    .skill-bar .bar .PHP{
+        width: 60%;
+        animation: Java 5s;
+    }
+
+
     .professional {
         display: grid;
         grid-template-columns: 1fr 1fr;
